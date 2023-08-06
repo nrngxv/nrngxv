@@ -1,4 +1,4 @@
-This is nrngxv. Technology interests me and I am here to learn more about it.
+Technology ethusiast
 
 <!---
 nrngxv/nrngxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
