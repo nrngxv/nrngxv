@@ -4,10 +4,10 @@
 
 ## What I know
 I am starting my career as a backend developer, bringing a strong foundation in backend technologies. My expertise includes:
-- Backend Technologies: Proficient in FastAPI and Django framework.
-- API Architecture: Well-versed in RESTful API architecture.
-- Design Skills: Possess a good eye for design, ensuring visually appealing and functional solutions.
-- Collaboration: Experienced in working with product designers on small projects, enhancing the user experience.
+- Proficient in FastAPI and Django framework.
+- Well-versed in RESTful API architecture.
+- Possess a good eye for design, ensuring visually appealing and functional solutions.
+- Experienced in working with product designers on small projects, enhancing the user experience.
 I am committed to continuous learning and staying updated with the latest advancements in web development to deliver high-quality solutions. 
 
 ## My Tech stack
