@@ -17,3 +17,4 @@ I am committed to continuous learning and staying updated with the latest advanc
   
 ## Currently learning
 - Expanding my knowledge of python and understanding programming patterns
+- Understanding vairous authenticaton methods and security measures in industrial software
