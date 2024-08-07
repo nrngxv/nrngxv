@@ -14,6 +14,7 @@ I am committed to continuous learning and staying updated with the latest advanc
 - Python and Django for building efficient backend systems
 - FastAPIs for building APIs with
 - HTML, CSS, JS(Learning) and Bootstrap for building frontend.
+- Relational database - PostgreSQL and SQLite
   
 ## Currently learning
 - Expanding my knowledge of python and understanding programming patterns
