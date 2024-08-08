@@ -12,7 +12,7 @@ I am committed to continuous learning and staying updated with the latest advanc
 
 
 ## My Tech stack
-![python-logo-only](https://github.com/user-attachments/assets/c2c622a5-bd4a-499d-8fff-c173a264a02d)
+![Python-logo-notext svg](https://github.com/user-attachments/assets/8405a3ae-1798-44f2-a5f6-74a238addfab)
 - Python and Django for building efficient backend systems
 - FastAPIs for building APIs with
 - HTML, CSS, JS(Learning) and Bootstrap for building frontend.
