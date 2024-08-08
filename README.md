@@ -10,7 +10,9 @@ I am starting my career as a backend developer, bringing a strong foundation in 
 - Experienced in working with product designers on small projects, enhancing the user experience.
 I am committed to continuous learning and staying updated with the latest advancements in web development to deliver high-quality solutions. 
 
+
 ## My Tech stack
+![python-logo-only](https://github.com/user-attachments/assets/c2c622a5-bd4a-499d-8fff-c173a264a02d)
 - Python and Django for building efficient backend systems
 - FastAPIs for building APIs with
 - HTML, CSS, JS(Learning) and Bootstrap for building frontend.
