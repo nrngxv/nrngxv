@@ -1,7 +1,7 @@
 # Hey there 👋🏻 ! I am Nirneet Nishant Guru.
 - I am a 22-year-old backend developer with a passion for creating efficient and scalable systems.
 - Always eager to learn and expand my skill set, whether it's diving deeper into Python, exploring new frameworks, or mastering the art of programming.
-- #### 🧾[This is the link to my resume](https://drive.google.com/file/d/11xwkEYN-0ysiK7N_anjNs1y9wqkZxSdb/view?usp=drive_link)
+- 🧾[This is the link to my resume](https://drive.google.com/file/d/11xwkEYN-0ysiK7N_anjNs1y9wqkZxSdb/view?usp=drive_link)
 
 ## What I know
 I am starting my career as a backend developer, bringing a strong foundation in backend technologies. My expertise includes:
